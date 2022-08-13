@@ -1,13 +1,27 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1660435165
 
-[stack_vars.-98]
-last_change = 1660435165
-stack_offset = -152
-stack_offset_type = 1
-name = "a4"
-type = "char **"
-size = 8
+[header]
+last_change = 1660430784
+name = "main"
 addr = 86806
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "argc"
+type_str = "int"
+size = 4
+
+[header.args.1]
+idx = 1
+name = "argv"
+type_str = "char **"
+size = 8
+
+[header.args.2]
+idx = 2
+name = "a3"
+type_str = "char **"
+size = 8
