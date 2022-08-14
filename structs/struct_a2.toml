@@ -1,6 +1,6 @@
 [metadata]
 name = "struct_a2"
-size = 40
+size = 152
 last_change = 1660457462
 
 [members.0]
@@ -12,5 +12,11 @@ size = 32
 [members.20]
 member_name = "qword20"
 offset = 32
-type = ""
+type = "_QWORD"
 size = 8
+
+[members.28]
+member_name = "gap28"
+offset = 40
+type = ""
+size = 112
