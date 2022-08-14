@@ -1,10 +1,10 @@
 [metadata]
 addr = 60322
 size = 144
-last_change = 1660457941
+last_change = 1660457946
 
 [header]
-last_change = 1660457941
+last_change = 1660457946
 name = "realpath_"
 addr = 60322
 ret_type = "unsigned long"
@@ -17,6 +17,6 @@ size = 8
 
 [header.args.1]
 idx = 1
-name = "a2"
+name = "input_path"
 type_str = "const char *"
 size = 8
