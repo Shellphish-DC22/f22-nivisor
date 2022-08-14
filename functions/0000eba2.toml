@@ -2,3 +2,8 @@
 addr = 60322
 size = 144
 last_change = 1660453498
+
+[header]
+last_change = 1660453498
+name = "resolved_path"
+addr = 60322
