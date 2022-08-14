@@ -1,33 +1,9 @@
 [metadata]
 addr = 85865
 size = 941
+last_change = 1660440338
 
 [header]
-last_change = 1660430968
-name = "sub_14F69"
+last_change = 1660440338
+name = "read_4k_mem"
 addr = 85865
-ret_type = "long"
-
-[header.args.0]
-idx = 0
-name = "fd"
-type_str = "int"
-size = 4
-
-[header.args.1]
-idx = 1
-name = "a2"
-type_str = "char **"
-size = 8
-
-[header.args.2]
-idx = 2
-name = "a3"
-type_str = "char **"
-size = 8
-
-[header.args.3]
-idx = 3
-name = "a4"
-type_str = "_QWORD *"
-size = 8
