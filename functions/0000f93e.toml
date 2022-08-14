@@ -1,40 +1,4 @@
 [metadata]
 addr = 63806
 size = 298
-last_change = 1660439667
-
-[header]
-last_change = 1660439667
-name = "sub_F93E"
-addr = 63806
-ret_type = "long"
-
-[header.args.0]
-idx = 0
-name = "a1"
-type_str = "long"
-size = 8
-
-[header.args.1]
-idx = 1
-name = "a2"
-type_str = "int"
-size = 4
-
-[header.args.2]
-idx = 2
-name = "a3"
-type_str = "unsigned int"
-size = 4
-
-[header.args.3]
-idx = 3
-name = "a4"
-type_str = "int"
-size = 4
-
-[header.args.4]
-idx = 4
-name = "a5"
-type_str = "int"
-size = 4
+last_change = 1660439669
