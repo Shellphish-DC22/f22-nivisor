@@ -1,3 +1,9 @@
+[240c8]
+last_change = 1660443061
+addr = 147656
+name = ""
+size = 8
+
 [240e0]
 addr = 147680
 name = "syscall_map"
