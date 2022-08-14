@@ -36,12 +36,12 @@ type = "char *"
 size = 8
 addr = 86806
 
-[stack_vars.-a0]
+[stack_vars.-80]
 last_change = 1660441684
-stack_offset = -160
+stack_offset = -128
 stack_offset_type = 1
-name = "v11"
-type = "char *"
+name = "v15"
+type = "long"
 size = 8
 addr = 86806
 
