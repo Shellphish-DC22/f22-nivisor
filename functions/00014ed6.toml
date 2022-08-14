@@ -2,3 +2,8 @@
 addr = 85718
 size = 147
 last_change = 1660439787
+
+[header]
+last_change = 1660439787
+name = "fgets"
+addr = 85718
