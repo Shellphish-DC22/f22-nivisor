@@ -2,3 +2,12 @@
 addr = 86806
 size = 814
 last_change = 1660441293
+
+[stack_vars.-90]
+last_change = 1660441293
+stack_offset = -144
+stack_offset_type = 1
+name = "resolved_rootpath"
+type = "char[8]"
+size = 8
+addr = 86806
