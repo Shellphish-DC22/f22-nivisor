@@ -61,12 +61,6 @@ size = 4
 member_name = "field_24"
 offset = 36
 type = ""
-size = 4
-
-[members.28]
-member_name = "field_28"
-offset = 40
-type = ""
 size = 1
 
 [members.2c]
