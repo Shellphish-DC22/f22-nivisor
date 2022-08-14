@@ -39,6 +39,12 @@ offset = 20
 type = ""
 size = 4
 
+[members.18]
+member_name = "field_18"
+offset = 24
+type = ""
+size = 1
+
 [members.1c]
 member_name = "field_1C"
 offset = 28
