@@ -1,13 +1,22 @@
 [metadata]
 addr = 15028
 size = 626
-last_change = 1660449493
+last_change = 1660449522
 
 [header]
 last_change = 1660449493
 name = "sub_3AB4"
 addr = 15028
 ret_type = "long"
+
+[stack_vars.-e8]
+last_change = 1660449522
+stack_offset = -232
+stack_offset_type = 1
+name = "src"
+type = "struct user_regs_struct"
+size = 216
+addr = 15028
 
 [header.args.0]
 idx = 0
