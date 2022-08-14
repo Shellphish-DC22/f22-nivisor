@@ -2,3 +2,15 @@
 addr = 15654
 size = 667
 last_change = 1660443201
+
+[header]
+last_change = 1660443201
+name = "sub_3D26"
+addr = 15654
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "pid_str"
+type_str = "__pid_t *"
+size = 8
