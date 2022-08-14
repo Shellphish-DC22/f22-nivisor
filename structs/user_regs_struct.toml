@@ -1,6 +1,6 @@
 [metadata]
 name = "user_regs_struct"
-size = 144
+size = 128
 last_change = 1660443017
 
 [members.0]
@@ -96,17 +96,5 @@ size = 8
 [members.78]
 member_name = "orig_rax"
 offset = 120
-type = "unsigned long"
-size = 8
-
-[members.80]
-member_name = "_rip"
-offset = 128
-type = "unsigned long"
-size = 8
-
-[members.88]
-member_name = "_cs"
-offset = 136
 type = ""
 size = 8
