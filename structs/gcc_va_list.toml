@@ -6,5 +6,11 @@ last_change = 1660441575
 [members.0]
 member_name = "gp_offset"
 offset = 0
+type = "unsigned int"
+size = 4
+
+[members.4]
+member_name = "fp_offset"
+offset = 4
 type = ""
 size = 4
