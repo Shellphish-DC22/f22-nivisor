@@ -1,12 +1,12 @@
 [metadata]
 name = "mystruct"
 size = 288
-last_change = 1660449184
+last_change = 1660449480
 
 [members.0]
 member_name = "pid"
 offset = 0
-type = ""
+type = "unsigned int"
 size = 4
 
 [members.4]
