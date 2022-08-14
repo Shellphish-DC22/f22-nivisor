@@ -2,3 +2,12 @@
 addr = 86806
 size = 814
 last_change = 1660440960
+
+[stack_vars.-78]
+last_change = 1660440960
+stack_offset = -120
+stack_offset_type = 1
+name = "v16"
+type = "char[88]"
+size = 88
+addr = 86806
