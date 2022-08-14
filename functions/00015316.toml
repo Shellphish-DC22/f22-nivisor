@@ -27,11 +27,11 @@ type = "char **"
 size = 8
 addr = 86806
 
-[stack_vars.-a0]
+[stack_vars.-90]
 last_change = 1660436330
-stack_offset = -160
+stack_offset = -144
 stack_offset_type = 1
-name = "v11"
+name = "v13"
 type = "char *"
 size = 8
 addr = 86806
