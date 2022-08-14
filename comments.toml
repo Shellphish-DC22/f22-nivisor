@@ -4,3 +4,10 @@ addr = 85994
 func_addr = 85865
 comment = "file name is 4 bytes\nTUAN"
 decompiled = true
+
+[15986]
+last_change = 1660440930
+addr = 88454
+func_addr = 88406
+comment = "result = a1\n*result = 0"
+decompiled = true
