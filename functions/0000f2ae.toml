@@ -1,4 +1,22 @@
 [metadata]
 addr = 62126
 size = 403
-last_change = 1660449453
+last_change = 1660449455
+
+[header]
+last_change = 1660449455
+name = "sub_F2AE"
+addr = 62126
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "long"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "a2"
+type_str = "struct mystruct *"
+size = 8
