@@ -1,6 +1,16 @@
 [metadata]
 name = "gcc_va_list"
-size = 0
+size = 8
 last_change = 1660440866
 
-[members]
+[members.0]
+member_name = "gp_offset"
+offset = 0
+type = "unsigned int"
+size = 4
+
+[members.4]
+member_name = "fp_offset"
+offset = 4
+type = ""
+size = 4
