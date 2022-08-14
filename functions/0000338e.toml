@@ -1,4 +1,13 @@
 [metadata]
 addr = 13198
 size = 1496
-last_change = 1660439574
+last_change = 1660439575
+
+[stack_vars.-d4]
+last_change = 1660439575
+stack_offset = -212
+stack_offset_type = 1
+name = "v11"
+type = "int"
+size = 4
+addr = 13198
