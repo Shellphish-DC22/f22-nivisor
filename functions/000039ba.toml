@@ -2,3 +2,12 @@
 addr = 14778
 size = 186
 last_change = 1660453615
+
+[stack_vars.-e8]
+last_change = 1660453615
+stack_offset = -232
+stack_offset_type = 1
+name = "a2"
+type = "char[216]"
+size = 216
+addr = 14778
