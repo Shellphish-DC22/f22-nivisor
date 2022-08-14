@@ -73,7 +73,7 @@ size = 1
 member_name = "field_3F"
 offset = 63
 type = ""
-size = 1
+size = 2
 
 [members.44]
 member_name = "regs"
