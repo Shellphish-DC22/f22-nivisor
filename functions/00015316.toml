@@ -2,3 +2,12 @@
 addr = 86806
 size = 814
 last_change = 1660440968
+
+[stack_vars.-80]
+last_change = 1660440968
+stack_offset = -128
+stack_offset_type = 1
+name = "main_state_object"
+type = "long"
+size = 8
+addr = 86806
