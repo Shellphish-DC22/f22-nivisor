@@ -1,0 +1,6 @@
+[3b3d]
+last_change = 1660449646
+addr = 15165
+func_addr = 15028
+comment = "syscall_clone"
+decompiled = true
