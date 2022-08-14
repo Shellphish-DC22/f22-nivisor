@@ -85,7 +85,7 @@ size = 4
 member_name = "field_34"
 offset = 52
 type = ""
-size = 2
+size = 4
 
 [members.3c]
 member_name = "field_3C"
