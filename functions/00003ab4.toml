@@ -1,7 +1,7 @@
 [metadata]
 addr = 15028
 size = 626
-last_change = 1660449522
+last_change = 1660449535
 
 [header]
 last_change = 1660449493
@@ -10,10 +10,10 @@ addr = 15028
 ret_type = "long"
 
 [stack_vars.-e8]
-last_change = 1660449522
+last_change = 1660449535
 stack_offset = -232
 stack_offset_type = 1
-name = "src"
+name = "regs"
 type = "struct user_regs_struct"
 size = 216
 addr = 15028
