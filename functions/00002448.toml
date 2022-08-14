@@ -1,9 +1,18 @@
 [metadata]
 addr = 9288
 size = 502
-last_change = 1660437118
+last_change = 1660437369
 
 [header]
 last_change = 1660437118
 name = "read_0"
+addr = 9288
+
+[stack_vars.-98]
+last_change = 1660437369
+stack_offset = -152
+stack_offset_type = 1
+name = "buf"
+type = "long[16]"
+size = 128
 addr = 9288
