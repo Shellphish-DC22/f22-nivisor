@@ -1,7 +1,7 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1660457772
+last_change = 1660457816
 
 [header]
 last_change = 1660430784
@@ -28,10 +28,10 @@ size = 8
 addr = 86806
 
 [stack_vars.-90]
-last_change = 1660436330
+last_change = 1660457816
 stack_offset = -144
 stack_offset_type = 1
-name = "v13"
+name = "rootfs_realpath"
 type = "char *"
 size = 8
 addr = 86806
