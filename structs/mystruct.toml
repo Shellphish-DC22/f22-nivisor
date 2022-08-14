@@ -81,6 +81,12 @@ offset = 74
 type = ""
 size = 1
 
+[members.4b]
+member_name = "field_4B"
+offset = 75
+type = ""
+size = 1
+
 [members.4c]
 member_name = "field_4C"
 offset = 76
