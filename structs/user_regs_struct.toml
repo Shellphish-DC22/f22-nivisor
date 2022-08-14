@@ -1,6 +1,6 @@
 [metadata]
 name = "user_regs_struct"
-size = 192
+size = 112
 last_change = 1660443017
 
 [members.0]
@@ -84,65 +84,5 @@ size = 8
 [members.68]
 member_name = "_rsi"
 offset = 104
-type = "unsigned long"
-size = 8
-
-[members.70]
-member_name = "_rdi"
-offset = 112
-type = "unsigned long"
-size = 8
-
-[members.78]
-member_name = "orig_rax"
-offset = 120
-type = "unsigned long"
-size = 8
-
-[members.80]
-member_name = "_rip"
-offset = 128
-type = "unsigned long"
-size = 8
-
-[members.88]
-member_name = "_cs"
-offset = 136
-type = "unsigned long"
-size = 8
-
-[members.90]
-member_name = "eflags"
-offset = 144
-type = "unsigned long"
-size = 8
-
-[members.98]
-member_name = "_rsp"
-offset = 152
-type = "unsigned long"
-size = 8
-
-[members.a0]
-member_name = "_ss"
-offset = 160
-type = "unsigned long"
-size = 8
-
-[members.a8]
-member_name = "fs_base"
-offset = 168
-type = "unsigned long"
-size = 8
-
-[members.b0]
-member_name = "gs_base"
-offset = 176
-type = "unsigned long"
-size = 8
-
-[members.b8]
-member_name = "_ds"
-offset = 184
 type = ""
 size = 8
