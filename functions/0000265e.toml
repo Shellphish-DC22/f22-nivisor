@@ -1,10 +1,10 @@
 [metadata]
 addr = 9822
 size = 264
-last_change = 1660449065
+last_change = 1660449075
 
 [header]
-last_change = 1660449065
+last_change = 1660449075
 name = "sub_265E"
 addr = 9822
 ret_type = "unsigned long"
@@ -12,5 +12,5 @@ ret_type = "unsigned long"
 [header.args.0]
 idx = 0
 name = "mystruct"
-type_str = "long"
+type_str = "struct mystruct *"
 size = 8
