@@ -1,13 +1,22 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1660453529
+last_change = 1660453629
 
 [header]
 last_change = 1660430784
 name = "main"
 addr = 86806
 ret_type = "long"
+
+[stack_vars.-a0]
+last_change = 1660453629
+stack_offset = -160
+stack_offset_type = 1
+name = "v11"
+type = "char *"
+size = 8
+addr = 86806
 
 [header.args.0]
 idx = 0
