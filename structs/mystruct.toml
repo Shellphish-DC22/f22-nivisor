@@ -1,7 +1,7 @@
 [metadata]
 name = "mystruct"
-size = 284
-last_change = 1660449037
+size = 176
+last_change = 1660449038
 
 [members.0]
 member_name = "field_0"
@@ -58,7 +58,43 @@ type = ""
 size = 8
 
 [members.44]
-member_name = "regs"
+member_name = "field_44"
 offset = 68
-type = "struct user_regs_struct"
-size = 216
+type = ""
+size = 4
+
+[members.84]
+member_name = "field_84"
+offset = 132
+type = ""
+size = 8
+
+[members.8c]
+member_name = "field_8C"
+offset = 140
+type = ""
+size = 8
+
+[members.94]
+member_name = "field_94"
+offset = 148
+type = ""
+size = 8
+
+[members.9c]
+member_name = "field_9C"
+offset = 156
+type = ""
+size = 8
+
+[members.a4]
+member_name = "field_A4"
+offset = 164
+type = ""
+size = 8
+
+[members.ac]
+member_name = "field_AC"
+offset = 172
+type = ""
+size = 4
