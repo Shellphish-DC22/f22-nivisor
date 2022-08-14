@@ -1,13 +1,4 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1660440899
-
-[stack_vars.-a8]
-last_change = 1660440899
-stack_offset = -168
-stack_offset_type = 1
-name = "rootpath"
-type = "char *"
-size = 8
-addr = 86806
+last_change = 1660440902
