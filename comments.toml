@@ -5,6 +5,13 @@ func_addr = 85865
 comment = "file name is 4 bytes\nTUAN"
 decompiled = true
 
+[1505b]
+last_change = 1660452633
+addr = 86107
+func_addr = 85865
+comment = "maybe buffer overflow\nhow to use it?"
+decompiled = true
+
 [15986]
 last_change = 1660440930
 addr = 88454
