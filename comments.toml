@@ -4,3 +4,10 @@ addr = 85994
 func_addr = 85865
 comment = "file name is 4 bytes\nmaybe NAUT"
 decompiled = true
+
+[1505b]
+last_change = 1660435993
+addr = 86107
+func_addr = 85865
+comment = "maybe buffer overflow\nhow to use it?"
+decompiled = true
