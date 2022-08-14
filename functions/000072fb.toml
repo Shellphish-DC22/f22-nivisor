@@ -1,7 +1,7 @@
 [metadata]
 addr = 29435
 size = 1420
-last_change = 1660441683
+last_change = 1660441681
 
 [stack_vars.-128]
 last_change = 1660441681
@@ -10,13 +10,4 @@ stack_offset_type = 1
 name = "v18"
 type = "long[31]"
 size = 248
-addr = 29435
-
-[stack_vars.-958]
-last_change = 1660441683
-stack_offset = -2392
-stack_offset_type = 1
-name = "v15"
-type = "long[2]"
-size = 16
 addr = 29435
