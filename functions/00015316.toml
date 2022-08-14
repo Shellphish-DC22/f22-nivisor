@@ -9,6 +9,15 @@ name = "main"
 addr = 86806
 ret_type = "long"
 
+[stack_vars.-a8]
+last_change = 1660435819
+stack_offset = -168
+stack_offset_type = 1
+name = "v10"
+type = "char *"
+size = 8
+addr = 86806
+
 [header.args.0]
 idx = 0
 name = "argc"
