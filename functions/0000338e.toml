@@ -2,3 +2,12 @@
 addr = 13198
 size = 1496
 last_change = 1660437210
+
+[stack_vars.-d4]
+last_change = 1660437210
+stack_offset = -212
+stack_offset_type = 1
+name = "flag_fd"
+type = "int"
+size = 4
+addr = 13198
