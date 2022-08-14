@@ -5,6 +5,13 @@ func_addr = 85865
 comment = "file name is 4 bytes\nTUAN"
 decompiled = true
 
+[15466]
+last_change = 1660453529
+addr = 87142
+func_addr = 86806
+comment = "arg1 stores resolved path of arg2"
+decompiled = true
+
 [15986]
 last_change = 1660440930
 addr = 88454
