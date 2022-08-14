@@ -1,6 +1,28 @@
 [metadata]
 name = "gcc_va_list"
-size = 0
-last_change = 1660441574
+size = 24
+last_change = 1660441575
 
-[members]
+[members.0]
+member_name = "gp_offset"
+offset = 0
+type = "unsigned int"
+size = 4
+
+[members.4]
+member_name = "fp_offset"
+offset = 4
+type = "unsigned int"
+size = 4
+
+[members.8]
+member_name = "overflow_arg_area"
+offset = 8
+type = "void *"
+size = 8
+
+[members.10]
+member_name = "reg_save_area"
+offset = 16
+type = ""
+size = 8
