@@ -1,7 +1,7 @@
 [metadata]
 name = "mystruct"
 size = 76
-last_change = 1660449132
+last_change = 1660449134
 
 [members.0]
 member_name = "pid"
@@ -72,12 +72,6 @@ size = 1
 [members.3f]
 member_name = "field_3F"
 offset = 63
-type = ""
-size = 4
-
-[members.44]
-member_name = "regs"
-offset = 68
 type = ""
 size = 4
 
