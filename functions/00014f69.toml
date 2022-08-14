@@ -1,10 +1,10 @@
 [metadata]
 addr = 85865
 size = 941
-last_change = 1660458148
+last_change = 1660458203
 
 [header]
-last_change = 1660458148
+last_change = 1660458203
 name = "magic_get_paths_from_fd"
 addr = 85865
 ret_type = "long"
@@ -23,7 +23,7 @@ size = 8
 
 [header.args.2]
 idx = 2
-name = "fd"
+name = "executable"
 type_str = "char **"
 size = 8
 
