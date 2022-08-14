@@ -1,6 +1,6 @@
 [metadata]
 name = "mystruct"
-size = 20
+size = 38
 last_change = 1660448955
 
 [members.0]
@@ -20,3 +20,21 @@ member_name = "field_C"
 offset = 12
 type = ""
 size = 8
+
+[members.14]
+member_name = "field_14"
+offset = 20
+type = ""
+size = 8
+
+[members.1c]
+member_name = "field_1C"
+offset = 28
+type = ""
+size = 8
+
+[members.24]
+member_name = "field_24"
+offset = 36
+type = ""
+size = 2
