@@ -1,10 +1,10 @@
 [metadata]
 addr = 63806
 size = 298
-last_change = 1660439670
+last_change = 1660439671
 
 [header]
-last_change = 1660439670
+last_change = 1660439671
 name = "sub_F93E"
 addr = 63806
 ret_type = "long"
@@ -24,7 +24,7 @@ size = 4
 [header.args.2]
 idx = 2
 name = "a3"
-type_str = "unsigned int"
+type_str = "int"
 size = 4
 
 [header.args.3]
