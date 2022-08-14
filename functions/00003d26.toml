@@ -2,6 +2,12 @@
 addr = 15654
 size = 667
 
+[header]
+last_change = 1660443201
+name = "sub_3D26"
+addr = 15654
+ret_type = "long"
+
 [stack_vars.-e8]
 last_change = 1660443756
 stack_offset = -232
@@ -10,3 +16,9 @@ name = "regs"
 type = "struct user_regs_struct"
 size = 216
 addr = 15654
+
+[header.args.0]
+idx = 0
+name = "pid_str"
+type_str = "__pid_t *"
+size = 8
