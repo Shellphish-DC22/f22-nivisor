@@ -1,10 +1,9 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1660441670
 
 [header]
-last_change = 1660441670
+last_change = 1660430784
 name = "main"
 addr = 86806
 ret_type = "long"
@@ -38,18 +37,18 @@ addr = 86806
 
 [header.args.0]
 idx = 0
-name = "a1"
+name = "argc"
 type_str = "int"
 size = 4
 
 [header.args.1]
 idx = 1
-name = "argc"
+name = "argv"
 type_str = "char **"
 size = 8
 
 [header.args.2]
 idx = 2
-name = "argv"
+name = "a3"
 type_str = "char **"
 size = 8
