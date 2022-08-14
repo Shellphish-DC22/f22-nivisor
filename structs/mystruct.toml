@@ -97,11 +97,17 @@ size = 4
 member_name = "field_3C"
 offset = 60
 type = ""
-size = 2
+size = 4
 
-[members.3e]
-member_name = "field_3E"
-offset = 62
+[members.40]
+member_name = "field_40"
+offset = 64
+type = ""
+size = 4
+
+[members.44]
+member_name = "field_44"
+offset = 68
 type = ""
 size = 2
 
