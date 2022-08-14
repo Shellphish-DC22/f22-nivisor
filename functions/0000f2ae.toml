@@ -1,6 +1,7 @@
 [metadata]
 addr = 62126
 size = 403
+last_change = 1660453629
 
 [header]
 last_change = 1660449455
@@ -15,6 +16,15 @@ stack_offset_type = 1
 name = "cookie"
 type = "unsigned long"
 size = 8
+addr = 62126
+
+[stack_vars.-e8]
+last_change = 1660453629
+stack_offset = -232
+stack_offset_type = 1
+name = "a2"
+type = "long[28]"
+size = 224
 addr = 62126
 
 [header.args.0]
