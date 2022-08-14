@@ -1,10 +1,16 @@
 [metadata]
 name = "struct_a2"
-size = 32
+size = 40
 last_change = 1660457462
 
 [members.0]
 member_name = "gap0"
 offset = 0
-type = ""
+type = "_BYTE[32]"
 size = 32
+
+[members.20]
+member_name = "qword20"
+offset = 32
+type = ""
+size = 8
