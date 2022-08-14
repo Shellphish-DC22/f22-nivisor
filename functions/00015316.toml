@@ -2,3 +2,12 @@
 addr = 86806
 size = 814
 last_change = 1660440902
+
+[stack_vars.-a0]
+last_change = 1660440902
+stack_offset = -160
+stack_offset_type = 1
+name = "entrypoint"
+type = "char *"
+size = 8
+addr = 86806
