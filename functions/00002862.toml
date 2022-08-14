@@ -1,4 +1,9 @@
 [metadata]
 addr = 10338
 size = 281
-last_change = 1660440463
+last_change = 1660440464
+
+[header]
+last_change = 1660440464
+name = "setupLoadStub"
+addr = 10338
