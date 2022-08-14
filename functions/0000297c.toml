@@ -1,10 +1,10 @@
 [metadata]
 addr = 10620
 size = 96
-last_change = 1660449557
+last_change = 1660449598
 
 [header]
-last_change = 1660449557
+last_change = 1660449598
 name = "u_ptrace_getregs"
 addr = 10620
 ret_type = "long"
@@ -18,5 +18,5 @@ size = 8
 [header.args.1]
 idx = 1
 name = "a2"
-type_str = "struct ptregs_struct *"
+type_str = "struct user_regs_struct *"
 size = 8
