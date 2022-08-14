@@ -1,3 +1,21 @@
 [metadata]
 addr = 28443
 size = 375
+
+[header]
+last_change = 1660440742
+name = "sub_6F1B"
+addr = 28443
+ret_type = "unsigned long"
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "long"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "a2"
+type_str = "long"
+size = 8
