@@ -63,6 +63,48 @@ offset = 68
 type = ""
 size = 4
 
+[members.5c]
+member_name = "field_5C"
+offset = 92
+type = ""
+size = 8
+
+[members.64]
+member_name = "field_64"
+offset = 100
+type = ""
+size = 8
+
+[members.6c]
+member_name = "field_6C"
+offset = 108
+type = ""
+size = 8
+
+[members.74]
+member_name = "field_74"
+offset = 116
+type = ""
+size = 8
+
+[members.7c]
+member_name = "field_7C"
+offset = 124
+type = ""
+size = 8
+
+[members.84]
+member_name = "field_84"
+offset = 132
+type = ""
+size = 8
+
+[members.8c]
+member_name = "field_8C"
+offset = 140
+type = ""
+size = 8
+
 [members.94]
 member_name = "field_94"
 offset = 148
