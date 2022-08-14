@@ -1,4 +1,22 @@
 [metadata]
 addr = 27990
 size = 93
-last_change = 1660445226
+last_change = 1660445228
+
+[header]
+last_change = 1660445228
+name = "sub_6D56"
+addr = 27990
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "pid"
+type_str = "long"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "regs"
+type_str = "struct user_regs_struct"
+size = 216
