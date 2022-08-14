@@ -1,13 +1,22 @@
 [metadata]
 addr = 85865
 size = 941
-last_change = 1660440704
+last_change = 1660452930
 
 [header]
 last_change = 1660430968
 name = "sub_14F69"
 addr = 85865
 ret_type = "long"
+
+[stack_vars.-2430]
+last_change = 1660452930
+stack_offset = -9264
+stack_offset_type = 1
+name = "var_2428"
+type = "char[8]"
+size = 8
+addr = 85865
 
 [header.args.0]
 idx = 0
