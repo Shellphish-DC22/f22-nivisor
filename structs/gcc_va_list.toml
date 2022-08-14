@@ -1,0 +1,10 @@
+[metadata]
+name = "gcc_va_list"
+size = 8
+last_change = 1660440866
+
+[members.0]
+member_name = "gp_offset"
+offset = 0
+type = ""
+size = 4

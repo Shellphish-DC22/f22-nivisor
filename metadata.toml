@@ -1,5 +1,5 @@
 user = "pagabuc"
 version = 0
-last_push_time = 1660440464
-last_push_artifact = 10338
-last_push_artifact_type = "function"
+last_push_time = 1660440866
+last_push_artifact = "gcc_va_list"
+last_push_artifact_type = "struct"
