@@ -2,3 +2,8 @@
 addr = 10620
 size = 96
 last_change = 1660444655
+
+[header]
+last_change = 1660444655
+name = "u_ptrace_getregs"
+addr = 10620
