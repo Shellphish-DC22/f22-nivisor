@@ -1,0 +1,10 @@
+[metadata]
+name = "__va_list_tag"
+size = 8
+last_change = 1660500888
+
+[members.0]
+member_name = "gp_offset"
+offset = 0
+type = ""
+size = 4

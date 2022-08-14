@@ -1,5 +1,5 @@
 user = "zardus"
 version = 0
-last_push_time = 1660500862
-last_push_artifact = 147680
-last_push_artifact_type = "global variable"
+last_push_time = 1660500888
+last_push_artifact = "__va_list_tag"
+last_push_artifact_type = "struct"
