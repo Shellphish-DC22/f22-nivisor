@@ -2,12 +2,3 @@
 addr = 13198
 size = 1496
 last_change = 1660439574
-
-[stack_vars.-d4]
-last_change = 1660439574
-stack_offset = -212
-stack_offset_type = 1
-name = "a1"
-type = "int"
-size = 4
-addr = 13198
