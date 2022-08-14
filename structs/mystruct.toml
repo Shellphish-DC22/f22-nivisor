@@ -39,23 +39,11 @@ offset = 20
 type = ""
 size = 4
 
-[members.18]
-member_name = "field_18"
-offset = 24
-type = ""
-size = 4
-
 [members.1c]
 member_name = "field_1C"
 offset = 28
 type = ""
-size = 4
-
-[members.20]
-member_name = "field_20"
-offset = 32
-type = ""
-size = 2
+size = 8
 
 [members.24]
 member_name = "field_24"
