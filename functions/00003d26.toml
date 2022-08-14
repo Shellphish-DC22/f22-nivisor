@@ -1,3 +1,12 @@
 [metadata]
 addr = 15654
 size = 667
+
+[stack_vars.-e8]
+last_change = 1660443756
+stack_offset = -232
+stack_offset_type = 1
+name = "regs"
+type = "struct user_regs_struct"
+size = 216
+addr = 15654
