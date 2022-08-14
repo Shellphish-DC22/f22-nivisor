@@ -1,4 +1,13 @@
 [metadata]
 addr = 14778
 size = 186
-last_change = 1660453619
+last_change = 1660453620
+
+[stack_vars.-e8]
+last_change = 1660453620
+stack_offset = -232
+stack_offset_type = 1
+name = "v4"
+type = "char[216]"
+size = 216
+addr = 14778
