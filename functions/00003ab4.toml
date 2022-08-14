@@ -1,10 +1,10 @@
 [metadata]
 addr = 15028
 size = 626
-last_change = 1660439090
+last_change = 1660439208
 
 [header]
-last_change = 1660439090
+last_change = 1660439208
 name = "sub_3AB4"
 addr = 15028
 ret_type = "long"
@@ -13,10 +13,4 @@ ret_type = "long"
 idx = 0
 name = "a1"
 type_str = "unsigned long"
-size = 8
-
-[header.args.1]
-idx = 1
-name = "a2"
-type_str = "long"
 size = 8
