@@ -1,7 +1,12 @@
 [metadata]
 addr = 86806
 size = 814
-last_change = 1671391554
+
+[header]
+last_change = 1660430784
+name = "main"
+addr = 86806
+ret_type = "long"
 
 [stack_vars.-78]
 last_change = 1671391554
@@ -12,6 +17,42 @@ type = "char[88]"
 size = 88
 addr = 86806
 
+[stack_vars.-a0]
+last_change = 1660453629
+stack_offset = -160
+stack_offset_type = 1
+name = "v11"
+type = "char *"
+size = 8
+addr = 86806
+
+[stack_vars.-a8]
+last_change = 1660435819
+stack_offset = -168
+stack_offset_type = 1
+name = "v10"
+type = "char *"
+size = 8
+addr = 86806
+
+[stack_vars.-98]
+last_change = 1660435166
+stack_offset = -152
+stack_offset_type = 1
+name = "v12"
+type = "char **"
+size = 8
+addr = 86806
+
+[stack_vars.-90]
+last_change = 1660457816
+stack_offset = -144
+stack_offset_type = 1
+name = "rootfs_realpath"
+type = "char *"
+size = 8
+addr = 86806
+
 [stack_vars.-80]
 last_change = 1660441691
 stack_offset = -128
@@ -20,3 +61,21 @@ name = "a2"
 type = "long"
 size = 8
 addr = 86806
+
+[header.args.0]
+idx = 0
+name = "argc"
+type_str = "int"
+size = 4
+
+[header.args.1]
+idx = 1
+name = "argv"
+type_str = "char **"
+size = 8
+
+[header.args.2]
+idx = 2
+name = "a3"
+type_str = "char **"
+size = 8
