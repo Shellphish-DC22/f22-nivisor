@@ -8,15 +8,6 @@ name = "sub_F2AE"
 addr = 62126
 ret_type = "long"
 
-[stack_vars.-10]
-last_change = 1660449782
-stack_offset = -16
-stack_offset_type = 1
-name = "cookie"
-type = "unsigned long"
-size = 8
-addr = 62126
-
 [header.args.0]
 idx = 0
 name = "a1"
