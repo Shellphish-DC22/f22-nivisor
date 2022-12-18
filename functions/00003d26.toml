@@ -1,12 +1,22 @@
 [metadata]
 addr = 15654
 size = 667
+last_change = 1671392426
 
 [header]
 last_change = 1660443201
 name = "sub_3D26"
 addr = 15654
 ret_type = "long"
+
+[stack_vars.-e8]
+last_change = 1671392426
+stack_offset = -232
+stack_offset_type = 1
+name = "a2"
+type = "long[28]"
+size = 224
+addr = 15654
 
 [header.args.0]
 idx = 0
