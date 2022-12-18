@@ -1,3 +1,21 @@
 [metadata]
 addr = 60322
 size = 144
+
+[header]
+last_change = 1660453498
+name = "resolved_path"
+addr = 60322
+ret_type = "unsigned long"
+
+[header.args.0]
+idx = 0
+name = "output_path"
+type_str = "char **"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "input_path"
+type_str = "const char *"
+size = 8
