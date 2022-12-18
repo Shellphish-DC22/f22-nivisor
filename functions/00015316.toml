@@ -1,3 +1,12 @@
 [metadata]
 addr = 86806
 size = 814
+
+[stack_vars.-98]
+last_change = 1660435166
+stack_offset = -152
+stack_offset_type = 1
+name = "v12"
+type = "char **"
+size = 8
+addr = 86806
