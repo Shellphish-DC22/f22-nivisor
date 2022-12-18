@@ -1,3 +1,8 @@
 [metadata]
 addr = 20002
 size = 30
+
+[header]
+last_change = 1660440215
+name = "deref_a1"
+addr = 20002
