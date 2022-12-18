@@ -2,6 +2,12 @@
 addr = 14778
 size = 186
 
+[header]
+last_change = 1660449381
+name = "sub_39BA"
+addr = 14778
+ret_type = "long"
+
 [stack_vars.-e8]
 last_change = 1660453620
 stack_offset = -232
@@ -10,3 +16,9 @@ name = "v4"
 type = "char[216]"
 size = 216
 addr = 14778
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "unsigned int *"
+size = 8
