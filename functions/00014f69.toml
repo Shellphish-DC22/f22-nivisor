@@ -1,3 +1,12 @@
 [metadata]
 addr = 85865
 size = 941
+
+[stack_vars.-2440]
+last_change = 1660452950
+stack_offset = -9280
+stack_offset_type = 1
+name = "nptr_int"
+type = "unsigned long"
+size = 8
+addr = 85865
