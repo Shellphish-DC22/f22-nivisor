@@ -2,3 +2,12 @@
 addr = 11050
 size = 714
 last_change = 1671391562
+
+[stack_vars.-38]
+last_change = 1671391562
+stack_offset = -56
+stack_offset_type = 1
+name = "v17"
+type = "long[5]"
+size = 40
+addr = 11050
