@@ -1,3 +1,27 @@
 [metadata]
 addr = 62529
 size = 447
+
+[header]
+last_change = 1660438863
+name = "sub_F441"
+addr = 62529
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "long"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "a2"
+type_str = "long"
+size = 8
+
+[header.args.2]
+idx = 2
+name = "a3"
+type_str = "const char *"
+size = 8
