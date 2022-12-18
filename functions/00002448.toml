@@ -2,6 +2,11 @@
 addr = 9288
 size = 502
 
+[header]
+last_change = 1660437118
+name = "read_0"
+addr = 9288
+
 [stack_vars.-98]
 last_change = 1660437369
 stack_offset = -152
@@ -9,4 +14,13 @@ stack_offset_type = 1
 name = "buf"
 type = "long[16]"
 size = 128
+addr = 9288
+
+[stack_vars.-118]
+last_change = 1660440083
+stack_offset = -280
+stack_offset_type = 1
+name = "s"
+type = "char[96]"
+size = 96
 addr = 9288
