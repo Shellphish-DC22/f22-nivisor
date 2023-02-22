@@ -1,0 +1,117 @@
+[metadata]
+name = "mystruct"
+size = 288
+
+[members.0]
+member_name = "pid"
+offset = 0
+type = "unsigned int"
+size = 4
+
+[members.4]
+member_name = "field_4"
+offset = 4
+type = ""
+size = 4
+
+[members.8]
+member_name = "field_8"
+offset = 8
+type = ""
+size = 4
+
+[members.c]
+member_name = "field_C"
+offset = 12
+type = ""
+size = 4
+
+[members.10]
+member_name = "field_10"
+offset = 16
+type = ""
+size = 4
+
+[members.14]
+member_name = "field_14"
+offset = 20
+type = ""
+size = 4
+
+[members.18]
+member_name = "field_18"
+offset = 24
+type = ""
+size = 4
+
+[members.1c]
+member_name = "field_1C"
+offset = 28
+type = ""
+size = 4
+
+[members.20]
+member_name = "field_20"
+offset = 32
+type = ""
+size = 4
+
+[members.24]
+member_name = "field_24"
+offset = 36
+type = ""
+size = 4
+
+[members.28]
+member_name = "field_28"
+offset = 40
+type = ""
+size = 4
+
+[members.2c]
+member_name = "field_2C"
+offset = 44
+type = ""
+size = 4
+
+[members.30]
+member_name = "field_30"
+offset = 48
+type = ""
+size = 4
+
+[members.34]
+member_name = "field_34"
+offset = 52
+type = ""
+size = 4
+
+[members.38]
+member_name = "field_38"
+offset = 56
+type = ""
+size = 4
+
+[members.3c]
+member_name = "field_3C"
+offset = 60
+type = ""
+size = 4
+
+[members.40]
+member_name = "field_40"
+offset = 64
+type = ""
+size = 4
+
+[members.44]
+member_name = "field_44"
+offset = 68
+type = ""
+size = 4
+
+[members.48]
+member_name = "regs"
+offset = 72
+type = "struct user_regs_struct"
+size = 216
