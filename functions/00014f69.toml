@@ -1,0 +1,51 @@
+[metadata]
+addr = 85865
+size = 941
+
+[header]
+last_change = 1660439823
+name = "read_args"
+addr = 85865
+ret_type = "long"
+
+[stack_vars.-2440]
+last_change = 1660452950
+stack_offset = -9280
+stack_offset_type = 1
+name = "nptr_int"
+type = "unsigned long"
+size = 8
+addr = 85865
+
+[stack_vars.-2430]
+last_change = 1660452930
+stack_offset = -9264
+stack_offset_type = 1
+name = "var_2428"
+type = "char[8]"
+size = 8
+addr = 85865
+
+[header.args.0]
+idx = 0
+name = "fd"
+type_str = "int"
+size = 4
+
+[header.args.1]
+idx = 1
+name = "a2"
+type_str = "char **"
+size = 8
+
+[header.args.2]
+idx = 2
+name = "a3"
+type_str = "char **"
+size = 8
+
+[header.args.3]
+idx = 3
+name = "a4"
+type_str = "_QWORD *"
+size = 8
