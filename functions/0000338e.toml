@@ -1,7 +1,7 @@
 [metadata]
 addr = 13198
 size = 1496
-last_change = 1677041278
+last_change = 1677041277
 
 [header]
 last_change = 1660440437
@@ -31,15 +31,6 @@ last_change = 1677041277
 stack_offset = -56
 stack_offset_type = 1
 name = "v32"
-type = "long"
-size = 8
-addr = 13198
-
-[stack_vars.-e0]
-last_change = 1677041278
-stack_offset = -224
-stack_offset_type = 1
-name = ""
 type = "long"
 size = 8
 addr = 13198
