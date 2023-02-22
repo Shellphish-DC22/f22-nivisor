@@ -1,0 +1,12 @@
+[metadata]
+addr = 36808
+size = 179
+
+[stack_vars.-38]
+last_change = 1677040866
+stack_offset = -56
+stack_offset_type = 1
+name = "a1"
+type = "long[6]"
+size = 48
+addr = 36808
