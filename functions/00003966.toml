@@ -1,3 +1,21 @@
 [metadata]
 addr = 14694
 size = 84
+
+[header]
+last_change = 1660457451
+name = "sub_3966"
+addr = 14694
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "a1"
+type_str = "long"
+size = 8
+
+[header.args.1]
+idx = 1
+name = "a2"
+type_str = "struct_a2 *"
+size = 8
