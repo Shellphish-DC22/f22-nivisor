@@ -2,3 +2,12 @@
 addr = 86806
 size = 814
 last_change = 1677040737
+
+[stack_vars.-78]
+last_change = 1677040737
+stack_offset = -120
+stack_offset_type = 1
+name = "a1"
+type = "_DWORD[22]"
+size = 88
+addr = 86806
