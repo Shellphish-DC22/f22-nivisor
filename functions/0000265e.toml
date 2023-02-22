@@ -1,0 +1,15 @@
+[metadata]
+addr = 9822
+size = 264
+
+[header]
+last_change = 1660441224
+name = "main_state_constructor"
+addr = 9822
+ret_type = "unsigned long"
+
+[header.args.0]
+idx = 0
+name = "mystruct"
+type_str = "struct mystruct *"
+size = 8
