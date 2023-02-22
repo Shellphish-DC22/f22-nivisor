@@ -10,3 +10,12 @@ name = "v11"
 type = "int"
 size = 4
 addr = 13198
+
+[stack_vars.-48]
+last_change = 1677040863
+stack_offset = -72
+stack_offset_type = 1
+name = "a1"
+type = "char[16]"
+size = 16
+addr = 13198
