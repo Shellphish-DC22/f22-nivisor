@@ -2,3 +2,12 @@
 addr = 29435
 size = 1420
 last_change = 1677041269
+
+[stack_vars.-958]
+last_change = 1677041269
+stack_offset = -2392
+stack_offset_type = 1
+name = "a1"
+type = "char[16]"
+size = 16
+addr = 29435
