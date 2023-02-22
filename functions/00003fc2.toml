@@ -1,7 +1,6 @@
 [metadata]
 addr = 16322
 size = 1150
-last_change = 1677041278
 
 [stack_vars.-2a0]
 last_change = 1660453619
@@ -10,12 +9,4 @@ stack_offset_type = 1
 name = "a2"
 type = "user_regs_struct"
 size = 176
-addr = 16322
-
-[stack_vars.-2d0]
-last_change = 1677041278
-stack_offset = -720
-stack_offset_type = 1
-type = "long"
-size = 8
 addr = 16322
