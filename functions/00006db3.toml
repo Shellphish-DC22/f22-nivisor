@@ -1,3 +1,12 @@
 [metadata]
 addr = 28083
 size = 326
+
+[stack_vars.-f0]
+last_change = 1660453628
+stack_offset = -240
+stack_offset_type = 1
+name = "a1"
+type = "unsigned int *"
+size = 8
+addr = 28083
