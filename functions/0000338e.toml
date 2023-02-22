@@ -21,11 +21,11 @@ type = "char[16]"
 size = 16
 addr = 13198
 
-[stack_vars.-38]
+[stack_vars.-e0]
 last_change = 1677040865
-stack_offset = -56
+stack_offset = -224
 stack_offset_type = 1
-name = "v32"
+name = "a2"
 type = "long"
 size = 8
 addr = 13198
