@@ -1,3 +1,12 @@
 [metadata]
 addr = 34492
 size = 109
+
+[stack_vars.-20]
+last_change = 1671592556
+stack_offset = -32
+stack_offset_type = 1
+name = "a1"
+type = "long"
+size = 8
+addr = 34492
