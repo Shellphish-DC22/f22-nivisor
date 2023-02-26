@@ -1,5 +1,5 @@
 user = "test92"
 version = 0
-last_push_time = -1
-last_push_artifact = -1
-last_push_artifact_type = -1
+last_push_time = 1677449894
+last_push_artifact = 95120
+last_push_artifact_type = "function"
