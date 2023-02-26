@@ -2,3 +2,8 @@
 addr = 86806
 size = 814
 last_change = 1677450265
+
+[header]
+last_change = 1677450265
+name = "main"
+addr = 86806
