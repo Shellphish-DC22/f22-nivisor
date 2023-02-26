@@ -1,4 +1,4 @@
-[18481]
-addr = 99457
-name = "s2"
-size = 12
+[240e0]
+addr = 147680
+name = "handle_syscalls"
+size = 8
