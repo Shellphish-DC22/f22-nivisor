@@ -1,0 +1,8 @@
+[metadata]
+addr = 10716
+size = 96
+
+[header]
+last_change = 1660444684
+name = "u_ptrace_setregs"
+addr = 10716
