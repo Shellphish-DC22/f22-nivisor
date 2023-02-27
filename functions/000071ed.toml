@@ -1,3 +1,12 @@
 [metadata]
 addr = 29165
 size = 270
+
+[stack_vars.-38]
+last_change = 1671391561
+stack_offset = -56
+stack_offset_type = 1
+name = "v8"
+type = "long[6]"
+size = 48
+addr = 29165
