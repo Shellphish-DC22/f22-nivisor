@@ -1,3 +1,12 @@
 [metadata]
 addr = 62126
 size = 403
+
+[stack_vars.-10]
+last_change = 1660449782
+stack_offset = -16
+stack_offset_type = 1
+name = "cookie"
+type = "unsigned long"
+size = 8
+addr = 62126
