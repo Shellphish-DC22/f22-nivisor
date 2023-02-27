@@ -1,0 +1,12 @@
+[metadata]
+addr = 12452
+size = 745
+
+[stack_vars.-f8]
+last_change = 1660453612
+stack_offset = -248
+stack_offset_type = 1
+name = "a2"
+type = "_BYTE[216]"
+size = 216
+addr = 12452
