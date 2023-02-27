@@ -1,0 +1,135 @@
+[metadata]
+name = "user_regs_struct"
+size = 176
+
+[members.0]
+member_name = "_r15"
+offset = 0
+type = "unsigned long"
+size = 8
+
+[members.8]
+member_name = "_r14"
+offset = 8
+type = "unsigned long"
+size = 8
+
+[members.10]
+member_name = "_r13"
+offset = 16
+type = "unsigned long"
+size = 8
+
+[members.18]
+member_name = "_r12"
+offset = 24
+type = "unsigned long"
+size = 8
+
+[members.20]
+member_name = "_rbp"
+offset = 32
+type = "unsigned long"
+size = 8
+
+[members.28]
+member_name = "_rbx"
+offset = 40
+type = "unsigned long"
+size = 8
+
+[members.30]
+member_name = "_r11"
+offset = 48
+type = "unsigned long"
+size = 8
+
+[members.38]
+member_name = "_r10"
+offset = 56
+type = "unsigned long"
+size = 8
+
+[members.40]
+member_name = "_r9"
+offset = 64
+type = "unsigned long"
+size = 8
+
+[members.48]
+member_name = "_r8"
+offset = 72
+type = "unsigned long"
+size = 8
+
+[members.50]
+member_name = "_rax"
+offset = 80
+type = "unsigned long"
+size = 8
+
+[members.58]
+member_name = "_rcx"
+offset = 88
+type = "unsigned long"
+size = 8
+
+[members.60]
+member_name = "_rdx"
+offset = 96
+type = "unsigned long"
+size = 8
+
+[members.68]
+member_name = "_rsi"
+offset = 104
+type = "unsigned long"
+size = 8
+
+[members.70]
+member_name = "_rdi"
+offset = 112
+type = "unsigned long"
+size = 8
+
+[members.78]
+member_name = "orig_rax"
+offset = 120
+type = "unsigned long"
+size = 8
+
+[members.80]
+member_name = "_rip"
+offset = 128
+type = "unsigned long"
+size = 8
+
+[members.88]
+member_name = "_cs"
+offset = 136
+type = "unsigned long"
+size = 8
+
+[members.90]
+member_name = "eflags"
+offset = 144
+type = "unsigned long"
+size = 8
+
+[members.98]
+member_name = "_rsp"
+offset = 152
+type = "unsigned long"
+size = 8
+
+[members.a0]
+member_name = "_ss"
+offset = 160
+type = "unsigned long"
+size = 8
+
+[members.a8]
+member_name = "fs_base"
+offset = 168
+type = ""
+size = 8
