@@ -1,3 +1,8 @@
 [metadata]
 addr = 10812
 size = 96
+
+[header]
+last_change = 1660444704
+name = "u_ptrace_getsiginfo"
+addr = 10812
