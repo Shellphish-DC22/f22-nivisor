@@ -1,0 +1,12 @@
+[metadata]
+addr = 12106
+size = 345
+
+[stack_vars.-38]
+last_change = 1671592555
+stack_offset = -56
+stack_offset_type = 1
+name = "a1"
+type = "long[6]"
+size = 48
+addr = 12106
