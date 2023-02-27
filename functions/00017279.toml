@@ -1,13 +1,13 @@
 [metadata]
 addr = 94841
 size = 165
-last_change = 1677460611
+last_change = 1677460619
 
 [stack_vars.-78]
-last_change = 1677460611
+last_change = 1677460619
 stack_offset = -120
 stack_offset_type = 1
-name = "a1"
+name = "v6"
 type = "_DWORD[26]"
 size = 104
 addr = 94841
