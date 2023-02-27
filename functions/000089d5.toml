@@ -1,0 +1,15 @@
+[metadata]
+addr = 35285
+size = 18
+
+[header]
+last_change = 1660440214
+name = "return_v"
+addr = 35285
+ret_type = "long"
+
+[header.args.0]
+idx = 0
+name = "v"
+type_str = "long"
+size = 8
