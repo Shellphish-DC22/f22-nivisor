@@ -1,3 +1,12 @@
 [metadata]
 addr = 85865
 size = 941
+
+[stack_vars.-2430]
+last_change = 1660452930
+stack_offset = -9264
+stack_offset_type = 1
+name = "var_2428"
+type = "char[8]"
+size = 8
+addr = 85865
